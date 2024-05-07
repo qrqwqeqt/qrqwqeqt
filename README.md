@@ -1,4 +1,4 @@
-![Header](https://github.com/qrqwqeqt/qrqwqeqt/blob/main/header.gif)
+<!-- ![Header](https://github.com/qrqwqeqt/qrqwqeqt/blob/main/header.gif) -->
 
 
 ## <code> KPI student 2nd year <code>Group: IM-23</code></code>
@@ -10,5 +10,6 @@
 
 
 # Projects
+ 
 
-# Follow me
+[![Telegram](<https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&logoSize=amg">)](https://t.me/qrqwqeqt) [![Gmail](<https://img.shields.io/badge/Gmail-595959?style=flat&logo=gmail&&logoSize=amg">)](mailto:bryuhov.arseniy@lll.kpi.ua)
