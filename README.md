@@ -1,7 +1,8 @@
-[![Header](https://github.com/qrqwqeqt/qrqwqeqt/blob/main/header.gif)]
+![Header](https://github.com/qrqwqeqt/qrqwqeqt/blob/main/header.gif)
 
 
-About me
+## KPI student 2nd year
+### Group: IM-23
 
 Language and Tools
 
