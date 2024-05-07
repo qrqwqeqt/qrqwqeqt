@@ -3,10 +3,12 @@
 
 ## <code> KPI student 2nd year <code>Group: IM-23</code></code>
 
-# Language and Tools
-![Python](https://img.shields.io/badge/-Python-090909?logo=python&style=plastic) ![JavaScript](https://img.shields.io/badge/-JS-090909?logo=JavaScript&style=plastic) ![GoLang](https://img.shields.io/badge/-GoLang-090909?logo=Go&style=plastic) ![SQL](https://img.shields.io/badge/-SQL-090909?logo=mySQL&style=plastic) ![Assembler](https://img.shields.io/badge/-Assembler-090909?logo=&style=plastic)
+# Language
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,nodejs&theme=light)](https://skillicons.dev)
+# Tools
+[![My Tools](https://skillicons.dev/icons?i=git,github,godot,sqlite,notion,linux,blender&theme=light)](https://skillicons.dev)
 
 
 # Projects
 
-Follow me
+# Follow me
