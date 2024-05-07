@@ -1,8 +1,7 @@
 ![Header](https://github.com/qrqwqeqt/qrqwqeqt/blob/main/header.gif)
 
 
-## KPI student 2nd year
-## Group: IM-23
+<code> KPI student 2nd year <code> Group: IM-23</code> </code>
 
 Language and Tools
 
