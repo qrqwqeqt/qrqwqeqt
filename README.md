@@ -2,7 +2,7 @@
 
 
 ## KPI student 2nd year
-### Group: IM-23
+## Group: IM-23
 
 Language and Tools
 
