@@ -1,7 +1,7 @@
 ![Header](https://github.com/qrqwqeqt/qrqwqeqt/blob/main/header.gif)
 
 
-## <code> KPI student 3nd year <code>Group: IM-23</code></code>
+## <code> KPI student 3rd year <code>Group: IM-23</code></code>
 
 # Language
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,nodejs&theme=light)](https://skillicons.dev)
