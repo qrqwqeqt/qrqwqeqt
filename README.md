@@ -1,4 +1,4 @@
-![Header](https://github.com/qrqwqeqt/qrqwqeqt/blob/main/header.gif)
+
 
 
 ## <code> KPI student 3rd year <code>Group: IM-23</code></code>
